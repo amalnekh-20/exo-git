@@ -1,0 +1,1 @@
+print("amal and iman and yasmine")
